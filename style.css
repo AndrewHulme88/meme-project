@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+h1, p{
+    color: white;
+    text-align: center;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 150px;
+}
+
+img{
+    width: 100%;
+    border: 10px solid white;
+}
+
+h1{
+    font-size: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+
+p{
+    font-size: 30px;
+    margin-top: 0;
+}
