@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.line{
+    background-color: white;
+    height: 10px;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 50%;
+}
+
+.slogan{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+p{
+    color: white;
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 30px;
+}
+
+.photos{
+    display: flex;
+    justify-content: center;
+}
+
+.photos>img{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+}
+
+.projects{
+
+}
+
+.infoform{
+    text-align: center;
+}
